@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Let's Connect!  
-🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sourabhpatidar/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/sourabhpatidar/)
 🔗 [GitHub](https://github.com/Sourabh333/)
 ---
 
